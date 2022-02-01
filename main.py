@@ -1,3 +1,5 @@
+# proto code by Graham, moving 2 steppers
+
 import time
 import board
 import digitalio
