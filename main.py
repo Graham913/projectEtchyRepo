@@ -1,6 +1,11 @@
 # proto code by Graham, moving 2 steppers
 # muahahahah
 
+# git add .
+# git commit -m "insert whats changed, here"
+#  git push origin HEAD:main
+
+
 import time
 import board
 import digitalio
